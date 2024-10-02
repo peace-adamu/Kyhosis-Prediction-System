@@ -1,12 +1,15 @@
 # Project Title: Kyphosis Detection System
-[Project Overview](#project-overview)
-[Features](#features)
-[User input](#use-input)
-[Prediction output](#prediction-output)
-[Requirements](#requirements)
-[Usage](#usage)
-[Model](#model)
-[Classification report](#classification-report)
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [User input](#use-input)
+- [Prediction output](#prediction-output)
+- [Requirements](#requirements)
+- [Usage](#usage)
+- [Model](#model)
+- [Classification report](#classification-report)
+- [Confusion matrix](#confusion-matrix)
+- [Confusion matrix](#visualization)
+- [Code](#code)
 
 
 
